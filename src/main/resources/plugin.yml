@@ -1,0 +1,10 @@
+name: ChromaUtils
+version: '${project.version}'
+main: me.lightning.chromautils.ChromaUtils
+author: Lightning1337XD
+api-version: '1.21.1'
+commands:
+  timer:
+    description: Start a timer
+    permission: chromautils.command.timer
+    usage: 'Usage: /<command> start | stop | reset | set'

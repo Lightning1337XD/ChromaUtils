@@ -1,0 +1,6 @@
+# Ingame timer shown in the action bar
+timer:
+  format: '[d''d ''h''h '']m''m ''s''s'''
+  idleMessage: Timer is paused
+  isCountdown: false
+  time: 0
