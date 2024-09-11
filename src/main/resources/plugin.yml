@@ -4,6 +4,10 @@ main: me.lightning.chromautils.ChromaUtils
 author: Lightning1337XD
 api-version: '1.21.1'
 commands:
+  reset:
+    description: Reset the world
+    permission: chromautils.command.reset
+    usage: 'Usage: /<command> [<seed>]'
   timer:
     description: Start a timer
     permission: chromautils.command.timer

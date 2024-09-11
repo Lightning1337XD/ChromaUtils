@@ -4,3 +4,8 @@ timer:
   idleMessage: Timer is paused
   isCountdown: false
   time: 0
+
+worlds:
+  newWorldPrefix: new_
+  resetWorlds: []
+  resetTimer: true
